@@ -1,5 +1,9 @@
 # Reflex Game
 
+[![GitHub release](https://img.shields.io/github/v/release/IamSboby/reflex-game?style=flat&color=181717)](https://github.com/IamSboby/reflex-game/releases)
+[![License](https://img.shields.io/github/license/IamSboby/reflex-game?style=flat&label=License)](LICENSE)
+[![Instagram](https://img.shields.io/badge/Instagram-Sboby_-C13584?style=flat&logo=instagram)](https://www.instagram.com/sboby4all)
+
 Reflex Game is a small, offline-friendly reaction game for keyboard and touch. A direction appears on screen; respond with the matching arrow key or swipe. The game records reaction times, mistakes, accuracy, per-direction performance, and a lightweight progress chart.
 
 The interface is intentionally simple: no framework, no CDN, no analytics, no accounts, and no external runtime dependencies in the browser. Settings stay in `localStorage`; game history for the current browser session stays in `sessionStorage`.
@@ -90,7 +94,3 @@ Main files:
 ## Privacy and offline use
 
 The game loads no remote fonts, scripts, images, or analytics. Once installed locally it works without Internet access. Results never leave the browser.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
