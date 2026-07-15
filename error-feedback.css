@@ -1,0 +1,1 @@
+.bad-pop{color:var(--fx-color,#fff)!important;text-shadow:0 0 18px color-mix(in srgb,var(--fx-color,#fff) 65%,transparent)}.shell-fail #arrow{filter:drop-shadow(0 0 18px var(--fx-color,#fff))}.shell-fail #arrow path{stroke:var(--fx-color,#fff)!important}.bg-pulse.fail{background:var(--fx-color,#fff)!important}
