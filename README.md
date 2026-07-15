@@ -6,7 +6,7 @@ The interface is intentionally simple: no framework, no CDN, no analytics, no ac
 
 ## Play online
 
-The GitHub Pages address is shown in the repository description after deployment.
+Play it at **[iamsboby.github.io/reflex-game](https://iamsboby.github.io/reflex-game/)**.
 
 ## What is included
 
